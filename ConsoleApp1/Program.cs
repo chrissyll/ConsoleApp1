@@ -15,6 +15,7 @@ namespace ConsoleApp1
             Console.WriteLine("上");
             Console.WriteLine("中");
             Console.WriteLine("下");
+            Console.WriteLine("Great!!!");
         }
     }
 }
